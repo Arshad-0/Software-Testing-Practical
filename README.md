@@ -1,4 +1,3 @@
-# Software-Testing-Practical
 # 🧪 Software Testing Practical Assignments
 
 Welcome to the **Software Testing Practical** repository!  
